@@ -47,7 +47,7 @@ CRUD with Java Script.
                     </thead>
                     <tbody>
                       <tr>
-                        <td> Tom Jones</td>
+                        <td> Jones Tom</td>
                         <td> 123@gmail.com</td>
                         <td> 10000</td>
                         <td> NYC</td>
