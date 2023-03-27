@@ -38,11 +38,11 @@ CRUD with Java Script.
                 <table class="list" id="employeeList">
                     <thead>
                         <tr>
-                            <th>Full Name</th>
-                            <th>Email Id</th>
-                            <th>Salary</th>
-                            <th>City</th>
-                            <th>Actions</th>
+                            <td>Full Name</td>
+                            <td>Email Id</td>
+                            <td>Salary</td>
+                            <td>City</td>
+                            <td>Actions</td>
                       </tr>
                     </thead>
                     <tbody>
