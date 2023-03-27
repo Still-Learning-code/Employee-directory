@@ -52,6 +52,7 @@ CRUD with Java Script.
                         <td> 10000</td>
                         <td> NYC</td>
                         <td> edit/delete</td>
+			</tr>
 
                     </tbody>
                 </table>
